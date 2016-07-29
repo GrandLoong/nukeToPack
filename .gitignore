@@ -1,0 +1,9 @@
+/config/site
+/.idea
+/.pydevproject
+/.project
+# Compiled Python Files
+*.py[cod]
+test*.py
+/docs
+.DS_Store
